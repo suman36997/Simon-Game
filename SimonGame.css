@@ -1,0 +1,38 @@
+.outer-div{
+    text-align: center;
+    width:400px;
+    height:400px;
+    margin:auto;
+
+}
+.box{
+    width:400px;
+    height:400px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.btn{
+width:150px;
+height:150px;
+border-radius:40px;
+border:7px solid black;
+}
+.red{
+    background-color: rgb(203, 11, 56);
+}
+.cyan{
+    background-color: cyan;
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}
+.flash{
+    background-color: white;
+}
+.user-flash{
+    background-color: green;
+}
